@@ -1,0 +1,8 @@
+admin email: uvini@gmail.com
+password: 1234
+
+user email: uma@gmail.com
+password: 1234
+
+** Please sign in to the email address that you have used to register to the website from this device to verify the email, 
+since the email verification will be sent through the local host.
